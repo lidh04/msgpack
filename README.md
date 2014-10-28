@@ -1,4 +1,5 @@
-msgpack
+msgpack for common lisp
 =======
 
-msgpack relating utils.
+msgpack relating utils in common lisp.
+
